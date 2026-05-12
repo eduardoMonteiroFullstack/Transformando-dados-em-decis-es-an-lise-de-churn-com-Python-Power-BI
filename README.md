@@ -19,3 +19,6 @@ Após o tratamento, exportei a base para Excel e segui para o Power BI, onde con
 📁 Excel
 
 Projetos como esse mostram como a análise de dados pode gerar insights relevantes para tomada de decisão e estratégias de negócio.
+
+
+<img width="1443" height="794" alt="image" src="https://github.com/user-attachments/assets/0b0a3a61-43a1-4e13-9b96-63e8705cda4a" />
